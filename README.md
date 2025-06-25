@@ -45,7 +45,7 @@ pip install -r requirements.txt
 streamlit run lungCancerSeverityApp.py
 
 
-##💻 Author
+💻 Author
 Sujal Adhikari
 📬 https://www.linkedin.com/in/sujaladhikari3/
 🐙 GitHub: @suzaladhikari
